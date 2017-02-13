@@ -1,0 +1,3 @@
+di lab01 ini saya di beri tugas untuk mempelajari tentang GITHUB. Bagaimana
+cara untuk membuat directory,membuat file,commit,push,pull,dan lainnya. 
+semoga lab ini membantu untuk mengerjakan lab-lab berikutnya
