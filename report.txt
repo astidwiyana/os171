@@ -1,0 +1,4 @@
+minggu lalu,pada lab week00 saya di beri tugas untuk membuat google account
+yang di gunakan untuk membuat akun github. Dan selanjutnya pertintahkan untuk
+membuat repository dengan nama os171 dan kemudian di perintahkan untuk login
+di badak.cs.ui.ac.id
