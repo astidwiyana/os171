@@ -1,0 +1,4 @@
+w01-170213-13-LR-About: Lab week01
+w01-170213-13-DS-About: Lab week01
+w01-170213-15-PS-About: Doing Lab week01
+w01-170214-10-LR-About: HKI & Scripting, From: Lecturer
