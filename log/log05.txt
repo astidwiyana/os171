@@ -1,0 +1,5 @@
+w05-170313-15-LR-About: Understand about lab week05
+w05-170314-10-LS-About: Memory,From:Lecturer
+w05-170316-10-LS-About: Memory,Paging, From: Lecturer
+w05-170316-20-PS-About: Doing lab week05.
+w05-170317-08-PS-About: Doing lab week05.

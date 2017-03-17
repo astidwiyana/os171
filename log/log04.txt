@@ -1,3 +1,6 @@
 w04-170306-15-LR-About: Try to understand the question in lab week04
 w04-170307-10-LR-About: Pointer,From: Lecturer
 w04-170307-21-PS-About: Doing Lab week04
+w04-170309-10-LR-About: I/O Programming,From: Lecturer
+w04-170309-13-PS-About: Doing Lab week04
+w04-170310-15-PS-About: Doing Lab week04
