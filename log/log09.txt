@@ -1,0 +1,5 @@
+w09-170502-10-LR-About: File System & Persistent Storage From Lecturer
+w09-170502-11-LR-About: Membahasa dan mengerjakan soal-soal tentang file
+                        system di kelas
+w09-170504-10-LR-About: File System & Persistent Storage From Lecturer
+w09-170504-11-LR-About: Membahas dan mengerjakan soal tentang raid

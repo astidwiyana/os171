@@ -1,0 +1,12 @@
+w10-170509-10-LR-About: Melanjutkan beberapa materi di week9 yang belum 
+                        selesai
+w10-170509-11-LR-About: Membahasa soal-soal UAS tahun-tahun sebelumnya
+w10-170518-10-LR-About: Membahas soal-soal tentang RAID dan melanjutkan
+                        materi tentang cloud computing
+w10-170518-11-LR-About: Membahas soal-soal tentang cloud computing
+w10-170520-14-PS-About: Membuat ulasan untuk tugas week09
+w10-170521-13-PS-About: Edit ulasan karena sumber salah
+w10-170522-15-PS-About: Merangking ulasan peserta os 2017
+w10-170523-20-PS-About: Edit rangking ulasan peserta os 2017
+
+
